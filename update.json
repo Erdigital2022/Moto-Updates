@@ -1,1 +1,13 @@
-*
+{
+  "app": {
+    "versao": "1.2",
+    "url": "https://raw.githubusercontent.com/Erdigital2022/Moto-Updates/main/app-debug.apk",
+    "notas": "• "
+  },
+  "firmware": {
+    "versao": "v3.4",
+    "url": "https://raw.githubusercontent.com/Erdigital2022/Moto-Updates/main/firmware.bin",
+    "notas": ""
+  }
+}
+
