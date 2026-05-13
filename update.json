@@ -5,7 +5,7 @@
     "notas": "• Novo sistema de download interno\n• Melhoria na estabilidade do GPS\n• Interface de configurações mais limpa"
   },
   "firmware": {
-    "versao": "v3.3",
+    "versao": "v3.4",
     "url": "https://raw.githubusercontent.com/Erdigital2022/Moto-Updates/main/firmware.bin",
     "notas": "• Otimização do consumo de bateria\n• Melhora na precisão do sensor de inclinação"
   }
