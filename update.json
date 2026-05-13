@@ -1,12 +1,1 @@
-{
-  "app": {
-    "versao": "1.0",
-    "url": "https://raw.githubusercontent.com/Erdigital2022/Moto-Updates/main/app-debug.apk",
-    "notas": "• Sistema de recuperação de senha (E-mail/SMS)\n• Atalhos dinâmicos na tela inicial para ADMs\n• Proteção por biometria nos comandos\n• Salvamento automático nas configurações\n• Nova interface de download interno"
-  },
-  "firmware": {
-    "versao": "v3.0",
-    "url": "https://raw.githubusercontent.com/Erdigital2022/Moto-Updates/main/firmware.bin",
-    "notas": "• Reporte de voltagem da bateria em tempo real\n• Confirmação de comandos (Feedback de sucesso)\n• Otimização do sistema de Heartbeat (Online/Offline)\n• Melhoria na estabilidade da conexão SSL/MQTT"
-  }
-}
+*
